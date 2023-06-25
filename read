@@ -1,0 +1,4 @@
+Console.WriteLine("--------------------------------------------------------");
+            Console.WriteLine("C# Harf, Rakam, Özel Karakter Sayıcı ");
+            Console.WriteLine("--------------------------------------------------------");
+            Console.Write("Metni Girin :");
